@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# GPT3-OpenAI
+
+## Modern UI/UX Design - React App With CSS
+
+[Live Site](https://walid-allaf.github.io/GPT3-OpenAI/)
+
+![website](./static/media/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
